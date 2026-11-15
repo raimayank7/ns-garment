@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garment.niveshsahayak.in/sitemap.xml
